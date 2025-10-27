@@ -35,5 +35,5 @@ A simple and user-friendly React application that allows users to check the **cu
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/WeatherNow.git
+git clone https://github.com/AARTHIBALAMURUGAN/WeatherNow.git
 cd WeatherNow
